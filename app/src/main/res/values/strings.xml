@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">OpenweatherExample</string>
+
+    <string name="title">OPENWEATHER API</string>
+    <string name="search">Search</string>
+    <string name="hint">City Name.. (Ex> Seoul, Tokyo, London, Sydney, Barcelona..)</string>
 </resources>
